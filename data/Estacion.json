@@ -1,0 +1,788 @@
+{
+    "controlador.TDA.listas.LinkedList": {
+        "head": {
+            "data": {
+                "@class": "modelo.Estacion",
+                "nombre": "Cascada",
+                "latitud": -4.08,
+                "longitud": -79.21,
+                "fotos": {
+                    "head": {
+                        "data": {
+                            "@class": "string",
+                            "$": "d6f37728-f875-4b6e-ad2a-7148662372ccjpg"
+                        },
+                        "next": {
+                            "data": {
+                                "@class": "string",
+                                "$": "1963ec78-b72e-460f-b508-0ff756eff4fbjpg"
+                            }
+                        }
+                    },
+                    "last": {
+                        "@reference": "..\/head\/next"
+                    },
+                    "size": 2
+                }
+            },
+            "next": {
+                "data": {
+                    "@class": "modelo.Estacion",
+                    "nombre": "Laguna",
+                    "latitud": -4.07,
+                    "longitud": -78.23,
+                    "fotos": {
+                        "head": {
+                            "data": {
+                                "@class": "string",
+                                "$": "8c6c8245-a5ce-40ef-825d-d275a3bda835jpg"
+                            },
+                            "next": {
+                                "data": {
+                                    "@class": "string",
+                                    "$": "91dadc31-0d09-4e77-8fd5-b834023513d9jpg"
+                                }
+                            }
+                        },
+                        "last": {
+                            "@reference": "..\/head\/next"
+                        },
+                        "size": 2
+                    }
+                },
+                "next": {
+                    "data": {
+                        "@class": "modelo.Estacion",
+                        "nombre": "Sendero",
+                        "latitud": -4.06,
+                        "longitud": -77.8,
+                        "fotos": {
+                            "head": {
+                                "data": {
+                                    "@class": "string",
+                                    "$": "b08e05b9-8085-40c9-9c4e-38557336fccfjpg"
+                                },
+                                "next": {
+                                    "data": {
+                                        "@class": "string",
+                                        "$": "31367f60-0d9f-4eef-a9ea-f2dcd67af990jpg"
+                                    }
+                                }
+                            },
+                            "last": {
+                                "@reference": "..\/head\/next"
+                            },
+                            "size": 2
+                        }
+                    },
+                    "next": {
+                        "data": {
+                            "@class": "modelo.Estacion",
+                            "nombre": "Bosque Nublado",
+                            "latitud": -4.01,
+                            "longitud": -75.2,
+                            "fotos": {
+                                "head": {
+                                    "data": {
+                                        "@class": "string",
+                                        "$": "85ec1bdb-452e-43e3-aa94-866161f02ab7jpg"
+                                    },
+                                    "next": {
+                                        "data": {
+                                            "@class": "string",
+                                            "$": "0829d0ce-fda0-4f98-8a09-b4bf26fbb507jpg"
+                                        }
+                                    }
+                                },
+                                "last": {
+                                    "@reference": "..\/head\/next"
+                                },
+                                "size": 2
+                            }
+                        },
+                        "next": {
+                            "data": {
+                                "@class": "modelo.Estacion",
+                                "nombre": "Páramo de El Mirador",
+                                "latitud": -4.098,
+                                "longitud": -80.12,
+                                "fotos": {
+                                    "head": {
+                                        "data": {
+                                            "@class": "string",
+                                            "$": "eb0b7c3e-4e0c-40a3-8e4a-65a10ae0b269jpg"
+                                        },
+                                        "next": {
+                                            "data": {
+                                                "@class": "string",
+                                                "$": "42403ed9-db11-4879-a12b-f4af261e2307jpg"
+                                            }
+                                        }
+                                    },
+                                    "last": {
+                                        "@reference": "..\/head\/next"
+                                    },
+                                    "size": 2
+                                }
+                            },
+                            "next": {
+                                "data": {
+                                    "@class": "modelo.Estacion",
+                                    "nombre": "Cascada El León",
+                                    "latitud": -3.23,
+                                    "longitud": -65.12,
+                                    "fotos": {
+                                        "head": {
+                                            "data": {
+                                                "@class": "string",
+                                                "$": "489e0914-47db-44ee-9f04-c97c9329e27bjpg"
+                                            },
+                                            "next": {
+                                                "data": {
+                                                    "@class": "string",
+                                                    "$": "49aaeb94-2cdb-4212-8759-d9c947c31ef0jpg"
+                                                }
+                                            }
+                                        },
+                                        "last": {
+                                            "@reference": "..\/head\/next"
+                                        },
+                                        "size": 2
+                                    }
+                                },
+                                "next": {
+                                    "data": {
+                                        "@class": "modelo.Estacion",
+                                        "nombre": "Sendero Cóndores",
+                                        "latitud": -3.12,
+                                        "longitud": -67.23,
+                                        "fotos": {
+                                            "head": {
+                                                "data": {
+                                                    "@class": "string",
+                                                    "$": "c988d907-2c47-483f-a428-1543ed8710e9jpg"
+                                                },
+                                                "next": {
+                                                    "data": {
+                                                        "@class": "string",
+                                                        "$": "4e1df811-37b7-4084-b2e5-343ac6765a5ajpg"
+                                                    }
+                                                }
+                                            },
+                                            "last": {
+                                                "@reference": "..\/head\/next"
+                                            },
+                                            "size": 2
+                                        }
+                                    },
+                                    "next": {
+                                        "data": {
+                                            "@class": "modelo.Estacion",
+                                            "nombre": "Laguna del Compadre",
+                                            "latitud": -2.89,
+                                            "longitud": -54.12,
+                                            "fotos": {
+                                                "head": {
+                                                    "data": {
+                                                        "@class": "string",
+                                                        "$": "39b6f4aa-f4b8-4890-b299-a0a068533284jpg"
+                                                    },
+                                                    "next": {
+                                                        "data": {
+                                                            "@class": "string",
+                                                            "$": "0d558e5b-d6eb-41b4-a8d6-d386620d5df8jpg"
+                                                        }
+                                                    }
+                                                },
+                                                "last": {
+                                                    "@reference": "..\/head\/next"
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "next": {
+                                            "data": {
+                                                "@class": "modelo.Estacion",
+                                                "nombre": "Sendero Los Cedros",
+                                                "latitud": -67.23,
+                                                "longitud": -77.34,
+                                                "fotos": {
+                                                    "head": {
+                                                        "data": {
+                                                            "@class": "string",
+                                                            "$": "5e80ffed-9955-41bc-ba26-ffac963e9a02jpg"
+                                                        },
+                                                        "next": {
+                                                            "data": {
+                                                                "@class": "string",
+                                                                "$": "8770aa43-c3ac-4c65-bcb8-5d8993aca951jpg"
+                                                            }
+                                                        }
+                                                    },
+                                                    "last": {
+                                                        "@reference": "..\/head\/next"
+                                                    },
+                                                    "size": 2
+                                                }
+                                            },
+                                            "next": {
+                                                "data": {
+                                                    "@class": "modelo.Estacion",
+                                                    "nombre": "Cascada La Orquídea",
+                                                    "latitud": -3.123,
+                                                    "longitud": -56.12,
+                                                    "fotos": {
+                                                        "head": {
+                                                            "data": {
+                                                                "@class": "string",
+                                                                "$": "cfd88120-3e06-4ec9-9711-2542f9bd4fbdjpg"
+                                                            },
+                                                            "next": {
+                                                                "data": {
+                                                                    "@class": "string",
+                                                                    "$": "26cdbec0-f7eb-4461-90bd-4fe074157e91jpg"
+                                                                }
+                                                            }
+                                                        },
+                                                        "last": {
+                                                            "@reference": "..\/head\/next"
+                                                        },
+                                                        "size": 2
+                                                    }
+                                                },
+                                                "next": {
+                                                    "data": {
+                                                        "@class": "modelo.Estacion",
+                                                        "nombre": "Laguna de la Osa",
+                                                        "latitud": -3.78,
+                                                        "longitud": -67.12,
+                                                        "fotos": {
+                                                            "head": {
+                                                                "data": {
+                                                                    "@class": "string",
+                                                                    "$": "9b2e220c-1ea9-4049-b30a-713f01e15bc6jpg"
+                                                                },
+                                                                "next": {
+                                                                    "data": {
+                                                                        "@class": "string",
+                                                                        "$": "642a2d73-cd0d-49be-924b-a0ec3ecab067jpg"
+                                                                    }
+                                                                }
+                                                            },
+                                                            "last": {
+                                                                "@reference": "..\/head\/next"
+                                                            },
+                                                            "size": 2
+                                                        }
+                                                    },
+                                                    "next": {
+                                                        "data": {
+                                                            "@class": "modelo.Estacion",
+                                                            "nombre": "Sendero Las Morenas",
+                                                            "latitud": -3.34,
+                                                            "longitud": -5.12,
+                                                            "fotos": {
+                                                                "head": {
+                                                                    "data": {
+                                                                        "@class": "string",
+                                                                        "$": "269dafa7-e770-4772-aa74-47cdfd040fd5jpg"
+                                                                    },
+                                                                    "next": {
+                                                                        "data": {
+                                                                            "@class": "string",
+                                                                            "$": "072a3400-3e11-4332-ac71-54594eb60916jpg"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "last": {
+                                                                    "@reference": "..\/head\/next"
+                                                                },
+                                                                "size": 2
+                                                            }
+                                                        },
+                                                        "next": {
+                                                            "data": {
+                                                                "@class": "modelo.Estacion",
+                                                                "nombre": "Cascada El Aguila",
+                                                                "latitud": -2.23,
+                                                                "longitud": -3.45,
+                                                                "fotos": {
+                                                                    "head": {
+                                                                        "data": {
+                                                                            "@class": "string",
+                                                                            "$": "8b780e0b-7422-4cc0-ba66-54978df85f0fjpg"
+                                                                        },
+                                                                        "next": {
+                                                                            "data": {
+                                                                                "@class": "string",
+                                                                                "$": "5d347c45-ea10-48e7-9b4f-ff4f0015a830jpg"
+                                                                            }
+                                                                        }
+                                                                    },
+                                                                    "last": {
+                                                                        "@reference": "..\/head\/next"
+                                                                    },
+                                                                    "size": 2
+                                                                }
+                                                            },
+                                                            "next": {
+                                                                "data": {
+                                                                    "@class": "modelo.Estacion",
+                                                                    "nombre": "Mirador del Guacamayo",
+                                                                    "latitud": -3.23,
+                                                                    "longitud": -45.23,
+                                                                    "fotos": {
+                                                                        "head": {
+                                                                            "data": {
+                                                                                "@class": "string",
+                                                                                "$": "7ed68b2e-8337-4064-9544-10a5d0bbb7b0jpg"
+                                                                            },
+                                                                            "next": {
+                                                                                "data": {
+                                                                                    "@class": "string",
+                                                                                    "$": "38a895ff-5ccd-4f63-ba62-212651b6f1e7jpg"
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        "last": {
+                                                                            "@reference": "..\/head\/next"
+                                                                        },
+                                                                        "size": 2
+                                                                    }
+                                                                },
+                                                                "next": {
+                                                                    "data": {
+                                                                        "@class": "modelo.Estacion",
+                                                                        "nombre": "Sendero La Libertad",
+                                                                        "latitud": -45.23,
+                                                                        "longitud": -56.23,
+                                                                        "fotos": {
+                                                                            "head": {
+                                                                                "data": {
+                                                                                    "@class": "string",
+                                                                                    "$": "d4f03bac-f83c-4e56-983b-e97c5205a8f5jpg"
+                                                                                },
+                                                                                "next": {
+                                                                                    "data": {
+                                                                                        "@class": "string",
+                                                                                        "$": "938e8510-21a5-42f0-9463-086c58a3ab53jpg"
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "last": {
+                                                                                "@reference": "..\/head\/next"
+                                                                            },
+                                                                            "size": 2
+                                                                        }
+                                                                    },
+                                                                    "next": {
+                                                                        "data": {
+                                                                            "@class": "modelo.Estacion",
+                                                                            "nombre": "Cascada El Pavo Real",
+                                                                            "latitud": -4.345,
+                                                                            "longitud": -35.23,
+                                                                            "fotos": {
+                                                                                "head": {
+                                                                                    "data": {
+                                                                                        "@class": "string",
+                                                                                        "$": "f02e57d0-cfae-465e-ad6d-b1e86ab33fbfjpg"
+                                                                                    },
+                                                                                    "next": {
+                                                                                        "data": {
+                                                                                            "@class": "string",
+                                                                                            "$": "f2ee84ec-0ece-439a-9668-ff14e09e99eajpg"
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                "last": {
+                                                                                    "@reference": "..\/head\/next"
+                                                                                },
+                                                                                "size": 2
+                                                                            }
+                                                                        },
+                                                                        "next": {
+                                                                            "data": {
+                                                                                "@class": "modelo.Estacion",
+                                                                                "nombre": "Laguna del Tigre",
+                                                                                "latitud": -3.231,
+                                                                                "longitud": -80.124,
+                                                                                "fotos": {
+                                                                                    "head": {
+                                                                                        "data": {
+                                                                                            "@class": "string",
+                                                                                            "$": "d4b0e0b6-7485-4e80-83e7-9a90a2023c06jpg"
+                                                                                        },
+                                                                                        "next": {
+                                                                                            "data": {
+                                                                                                "@class": "string",
+                                                                                                "$": "5c65ba00-a77f-4371-947d-3f3a4fc5e268jpg"
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "last": {
+                                                                                        "@reference": "..\/head\/next"
+                                                                                    },
+                                                                                    "size": 2
+                                                                                }
+                                                                            },
+                                                                            "next": {
+                                                                                "data": {
+                                                                                    "@class": "modelo.Estacion",
+                                                                                    "nombre": "Sendero El Roble",
+                                                                                    "latitud": -3.0923,
+                                                                                    "longitud": -4.1423,
+                                                                                    "fotos": {
+                                                                                        "head": {
+                                                                                            "data": {
+                                                                                                "@class": "string",
+                                                                                                "$": "cb60ef46-68b2-4d61-8a41-0a4264d33310jpg"
+                                                                                            },
+                                                                                            "next": {
+                                                                                                "data": {
+                                                                                                    "@class": "string",
+                                                                                                    "$": "ac944340-6efd-4f8d-acb6-56f3419759fbjpg"
+                                                                                                }
+                                                                                            }
+                                                                                        },
+                                                                                        "last": {
+                                                                                            "@reference": "..\/head\/next"
+                                                                                        },
+                                                                                        "size": 2
+                                                                                    }
+                                                                                },
+                                                                                "next": {
+                                                                                    "data": {
+                                                                                        "@class": "modelo.Estacion",
+                                                                                        "nombre": "Cascada La Mariposa",
+                                                                                        "latitud": 3.212,
+                                                                                        "longitud": 43.232,
+                                                                                        "fotos": {
+                                                                                            "head": {
+                                                                                                "data": {
+                                                                                                    "@class": "string",
+                                                                                                    "$": "93ca5ac8-97dd-48f1-9ecb-db55a10515e1jpg"
+                                                                                                },
+                                                                                                "next": {
+                                                                                                    "data": {
+                                                                                                        "@class": "string",
+                                                                                                        "$": "9160ef80-f1e9-4992-a812-4d8d2face60ejpg"
+                                                                                                    }
+                                                                                                }
+                                                                                            },
+                                                                                            "last": {
+                                                                                                "@reference": "..\/head\/next"
+                                                                                            },
+                                                                                            "size": 2
+                                                                                        }
+                                                                                    },
+                                                                                    "next": {
+                                                                                        "data": {
+                                                                                            "@class": "modelo.Estacion",
+                                                                                            "nombre": "Mirador del Zorzal",
+                                                                                            "latitud": 12.12,
+                                                                                            "longitud": 99.122,
+                                                                                            "fotos": {
+                                                                                                "head": {
+                                                                                                    "data": {
+                                                                                                        "@class": "string",
+                                                                                                        "$": "c5660416-71a6-4035-9f2c-722899344674jpg"
+                                                                                                    },
+                                                                                                    "next": {
+                                                                                                        "data": {
+                                                                                                            "@class": "string",
+                                                                                                            "$": "45bd9b67-e7cf-4e12-a0fd-0d7281d140b0jpg"
+                                                                                                        }
+                                                                                                    }
+                                                                                                },
+                                                                                                "last": {
+                                                                                                    "@reference": "..\/head\/next"
+                                                                                                },
+                                                                                                "size": 2
+                                                                                            }
+                                                                                        },
+                                                                                        "next": {
+                                                                                            "data": {
+                                                                                                "@class": "modelo.Estacion",
+                                                                                                "nombre": "Sendero La Esperanza",
+                                                                                                "latitud": -3.123,
+                                                                                                "longitud": -45.12,
+                                                                                                "fotos": {
+                                                                                                    "head": {
+                                                                                                        "data": {
+                                                                                                            "@class": "string",
+                                                                                                            "$": "90ea405b-9f5d-4051-9ca7-f531589cac3bjpg"
+                                                                                                        },
+                                                                                                        "next": {
+                                                                                                            "data": {
+                                                                                                                "@class": "string",
+                                                                                                                "$": "7ae191b1-4c53-43bc-b3c2-4bbab0e5e789jpg"
+                                                                                                            }
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "last": {
+                                                                                                        "@reference": "..\/head\/next"
+                                                                                                    },
+                                                                                                    "size": 2
+                                                                                                }
+                                                                                            },
+                                                                                            "next": {
+                                                                                                "data": {
+                                                                                                    "@class": "modelo.Estacion",
+                                                                                                    "nombre": "Laguna del Mono",
+                                                                                                    "latitud": -3.123,
+                                                                                                    "longitud": -3.3552,
+                                                                                                    "fotos": {
+                                                                                                        "head": {
+                                                                                                            "data": {
+                                                                                                                "@class": "string",
+                                                                                                                "$": "c37bd671-90dc-42cf-8aa0-ff1eb7209224jpg"
+                                                                                                            },
+                                                                                                            "next": {
+                                                                                                                "data": {
+                                                                                                                    "@class": "string",
+                                                                                                                    "$": "12724f88-2ed1-4a83-9279-5736704da23bjpg"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "last": {
+                                                                                                            "@reference": "..\/head\/next"
+                                                                                                        },
+                                                                                                        "size": 2
+                                                                                                    }
+                                                                                                },
+                                                                                                "next": {
+                                                                                                    "data": {
+                                                                                                        "@class": "modelo.Estacion",
+                                                                                                        "nombre": "Sendero Las Delicias",
+                                                                                                        "latitud": -6.124,
+                                                                                                        "longitud": 67.124,
+                                                                                                        "fotos": {
+                                                                                                            "head": {
+                                                                                                                "data": {
+                                                                                                                    "@class": "string",
+                                                                                                                    "$": "2bb48e86-28d1-4f6d-8d0e-d59fa2b188aajpg"
+                                                                                                                },
+                                                                                                                "next": {
+                                                                                                                    "data": {
+                                                                                                                        "@class": "string",
+                                                                                                                        "$": "f5e757de-4f4a-4292-a7fc-3eb92322c4e6jpg"
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "last": {
+                                                                                                                "@reference": "..\/head\/next"
+                                                                                                            },
+                                                                                                            "size": 2
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "next": {
+                                                                                                        "data": {
+                                                                                                            "@class": "modelo.Estacion",
+                                                                                                            "nombre": "Cascada El Colibrí",
+                                                                                                            "latitud": -2.234,
+                                                                                                            "longitud": -87.234,
+                                                                                                            "fotos": {
+                                                                                                                "head": {
+                                                                                                                    "data": {
+                                                                                                                        "@class": "string",
+                                                                                                                        "$": "4a6576b1-a088-4261-9fea-5aa97a301e3fjpg"
+                                                                                                                    },
+                                                                                                                    "next": {
+                                                                                                                        "data": {
+                                                                                                                            "@class": "string",
+                                                                                                                            "$": "be0f0db6-1bad-455d-a5b5-d2269bd4ead4jpg"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "last": {
+                                                                                                                    "@reference": "..\/head\/next"
+                                                                                                                },
+                                                                                                                "size": 2
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "next": {
+                                                                                                            "data": {
+                                                                                                                "@class": "modelo.Estacion",
+                                                                                                                "nombre": "Mirador del Mirlo",
+                                                                                                                "latitud": -4.345,
+                                                                                                                "longitud": -76.235,
+                                                                                                                "fotos": {
+                                                                                                                    "head": {
+                                                                                                                        "data": {
+                                                                                                                            "@class": "string",
+                                                                                                                            "$": "3aabdb1f-6a16-4b72-abe9-e66fefba3601jpg"
+                                                                                                                        },
+                                                                                                                        "next": {
+                                                                                                                            "data": {
+                                                                                                                                "@class": "string",
+                                                                                                                                "$": "1d337e28-4375-4e9c-a7c5-c298dfd2643cjpg"
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    "last": {
+                                                                                                                        "@reference": "..\/head\/next"
+                                                                                                                    },
+                                                                                                                    "size": 2
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "next": {
+                                                                                                                "data": {
+                                                                                                                    "@class": "modelo.Estacion",
+                                                                                                                    "nombre": "Sendero Los Condores",
+                                                                                                                    "latitud": -2.234,
+                                                                                                                    "longitud": -34.2355,
+                                                                                                                    "fotos": {
+                                                                                                                        "head": {
+                                                                                                                            "data": {
+                                                                                                                                "@class": "string",
+                                                                                                                                "$": "1458e814-e6a4-44f0-b690-66a0d4754c79jpg"
+                                                                                                                            },
+                                                                                                                            "next": {
+                                                                                                                                "data": {
+                                                                                                                                    "@class": "string",
+                                                                                                                                    "$": "78410dd3-7531-4e06-8d28-01fa5a6e43aajpg"
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        },
+                                                                                                                        "last": {
+                                                                                                                            "@reference": "..\/head\/next"
+                                                                                                                        },
+                                                                                                                        "size": 2
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "next": {
+                                                                                                                    "data": {
+                                                                                                                        "@class": "modelo.Estacion",
+                                                                                                                        "nombre": "Cascada La Ardilla",
+                                                                                                                        "latitud": -7.12,
+                                                                                                                        "longitud": -36.24,
+                                                                                                                        "fotos": {
+                                                                                                                            "head": {
+                                                                                                                                "data": {
+                                                                                                                                    "@class": "string",
+                                                                                                                                    "$": "50409ce3-9861-426b-9766-7229ae9cc8b0jpg"
+                                                                                                                                },
+                                                                                                                                "next": {
+                                                                                                                                    "data": {
+                                                                                                                                        "@class": "string",
+                                                                                                                                        "$": "7a54dd4a-9152-4603-8668-bce740c227edjpg"
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            },
+                                                                                                                            "last": {
+                                                                                                                                "@reference": "..\/head\/next"
+                                                                                                                            },
+                                                                                                                            "size": 2
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    "next": {
+                                                                                                                        "data": {
+                                                                                                                            "@class": "modelo.Estacion",
+                                                                                                                            "nombre": "Laguna de la Tarabita",
+                                                                                                                            "latitud": -3.124,
+                                                                                                                            "longitud": -35.12245,
+                                                                                                                            "fotos": {
+                                                                                                                                "head": {
+                                                                                                                                    "data": {
+                                                                                                                                        "@class": "string",
+                                                                                                                                        "$": "e34de1a2-2a5b-4514-b521-5a328556c8b7jpg"
+                                                                                                                                    },
+                                                                                                                                    "next": {
+                                                                                                                                        "data": {
+                                                                                                                                            "@class": "string",
+                                                                                                                                            "$": "189425c7-4322-4c45-bb4f-395828620a1fjpg"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "last": {
+                                                                                                                                    "@reference": "..\/head\/next"
+                                                                                                                                },
+                                                                                                                                "size": 2
+                                                                                                                            }
+                                                                                                                        },
+                                                                                                                        "next": {
+                                                                                                                            "data": {
+                                                                                                                                "@class": "modelo.Estacion",
+                                                                                                                                "nombre": "Sendero El Cedro",
+                                                                                                                                "latitud": -8.4545,
+                                                                                                                                "longitud": -46.23245,
+                                                                                                                                "fotos": {
+                                                                                                                                    "head": {
+                                                                                                                                        "data": {
+                                                                                                                                            "@class": "string",
+                                                                                                                                            "$": "34bf9f05-5ce9-493f-9adc-c06cdc0cb70bjpg"
+                                                                                                                                        },
+                                                                                                                                        "next": {
+                                                                                                                                            "data": {
+                                                                                                                                                "@class": "string",
+                                                                                                                                                "$": "f257b902-20cb-4a47-983d-341a78bb25afjpg"
+                                                                                                                                            }
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    "last": {
+                                                                                                                                        "@reference": "..\/head\/next"
+                                                                                                                                    },
+                                                                                                                                    "size": 2
+                                                                                                                                }
+                                                                                                                            },
+                                                                                                                            "next": {
+                                                                                                                                "data": {
+                                                                                                                                    "@class": "modelo.Estacion",
+                                                                                                                                    "nombre": "Cascada La Tortuga",
+                                                                                                                                    "latitud": -6.435,
+                                                                                                                                    "longitud": -45.23245,
+                                                                                                                                    "fotos": {
+                                                                                                                                        "head": {
+                                                                                                                                            "data": {
+                                                                                                                                                "@class": "string",
+                                                                                                                                                "$": "e4b56615-9b8c-460f-b10c-19a2c267f81ejpg"
+                                                                                                                                            },
+                                                                                                                                            "next": {
+                                                                                                                                                "data": {
+                                                                                                                                                    "@class": "string",
+                                                                                                                                                    "$": "5e30ebe6-201d-4834-8ecd-2803a50fc49ajpg"
+                                                                                                                                                }
+                                                                                                                                            }
+                                                                                                                                        },
+                                                                                                                                        "last": {
+                                                                                                                                            "@reference": "..\/head\/next"
+                                                                                                                                        },
+                                                                                                                                        "size": 2
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "..\/head\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next"
+        },
+        "size": 30
+    }
+}
